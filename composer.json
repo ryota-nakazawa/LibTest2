@@ -1,0 +1,12 @@
+{
+  "name": "wetch/laralib",
+  "description": "Laravel用ライブラリ",
+  "require": {
+    "php": "^7.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Wetch\\Laralib\\": "sample/"
+    }
+  }
+}
